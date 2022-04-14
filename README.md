@@ -1,5 +1,5 @@
 Salut,
-Je suis Paul Bétous et je cherche à me former au Machine Learning (https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning), spécialité Traitement Naturel du Langage (NLP), grâce à l'alternance.
+Je suis Paul Bétous et je cherche à me former comme Data Scientist (https://openclassrooms.com/fr/paths/164-data-scientist), spécialité Traitement Naturel du Langage (NLP), grâce à l'alternance.
 Je viens de terminer la formation "Data Analyst" de OpenClassrooms (https://openclassrooms.com/fr/paths/324-data-analyst) et je dépose donc les codes dévelloppés au cours de celle-ci, ici.
 À + .
 
